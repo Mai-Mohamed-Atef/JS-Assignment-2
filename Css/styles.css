@@ -1,0 +1,19 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+}
+
+button 
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+}
+
+
+.color-mine:hover {
+    background-color: green;
+    border-color: green;
+}
+
